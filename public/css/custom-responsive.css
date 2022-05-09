@@ -1,0 +1,31 @@
+@media (max-width: 576px) {
+    .sidebar-profile-info {
+        text-align: center;
+        padding: 0;
+        padding-top: 3px;
+    }
+
+    .container-fluid {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+    .stat-card > .inner {
+        padding: 20px 20px 10px;
+    }
+    .stat-card-value {
+        font-size: 35px;
+    }
+
+    .navbar-collapse-menu {
+        padding-left: 1.5rem !important;
+    }
+
+    .nav-tabs .nav-item {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+
+}

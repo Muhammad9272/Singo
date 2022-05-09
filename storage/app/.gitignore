@@ -1,0 +1,5 @@
+*
+!*.json
+!temp_isrc_codes.csv
+!public/
+!.gitignore
