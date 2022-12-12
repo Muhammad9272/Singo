@@ -1,0 +1,126 @@
+
+*******************************premium_success.blade.php********************************************************
+This is only for this page(premium_success.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use Album ID you need to copy {{$user_info->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+---------------------------:-----------------------------------
+For User ID                :       {{$user_info->id}}
+For User Name              :       {{$user_info->name}}
+For User Email             :       {{$user_info->email}}
+**************************************************************************************************************
+
+*******************************album_status.blade.php********************************************************
+This is only for this page(album_status.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use Album ID you need to copy {{$user_info->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+---------------------------:-----------------------------------
+For Album ID               :       {{$user_info->id}}
+For Album Title            :       {{$user_info->title}}
+For Album UPC              :       {{$user_info->upc}}
+For Album Release Date     :       {{$user_info->release}}
+For Album Last Note        :       {{$user_info->note}}
+For Album Spotify URL      :       {{$user_info->spotify_url}}
+For Album Apple Music URL  :       {{$user_info->apple_music_url}}
+For Album User Name        :       {{$user_info->user->name}}
+**************************************************************************************************************
+
+*******************************album_submit.blade.php*********************************************************
+This is only for this page(album_status.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use Album ID you need to copy {{$user->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+---------------------------:-----------------------------------
+For Album ID               :       {{$user->id}}
+For Album Title            :       {{$user->title}}
+For Album UPC              :       {{$user->upc}}
+For Album Release Date     :       {{$user->release}}
+For Album Last Note        :       {{$user->note}}
+For Album Spotify URL      :       {{$user->spotify_url}}
+For Album Apple Music URL  :       {{$user->apple_music_url}}
+For Album User Name        :       {{$user->user->name}}
+For Album User Email       :       {{$user->user->email}}
+For Album User ID          :       {{$user->user->id}}
+**************************************************************************************************************
+
+*******************************all_user.blade.php*********************************************************
+This is only for this page(all_user.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use User ID you need to copy {{$user_details->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+-----------------------------------:-----------------------------------
+For User ID                        :       {{$user_details->id}}
+For User Name                      :       {{$user_details->name}}
+For Time of Email Verification     :       {{$user_details->email_verified_at}}
+For Artist Name                    :       {{$user_details->artistName}}
+For Balance                        :       {{$user_details->balance}}
+For Message                        :       {{$msg}}
+**************************************************************************************************************
+
+*******************************all_dynamic_user.blade.php*********************************************************
+This is only for this page(all_free_user.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use User ID you need to copy {{$user_details->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+-----------------------------------:-----------------------------------
+For User ID                        :       {{$user_details->id}}
+For User Name                      :       {{$user_details->name}}
+For Time of Email Verification     :       {{$user_details->email_verified_at}}
+For Artist Name                    :       {{$user_details->artistName}}
+For Balance                        :       {{$user_details->balance}}
+For Message                        :       {{$msg}}
+**************************************************************************************************************
+
+*******************************individual_user.blade.php*********************************************************
+This is only for this page(individual_user.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use User ID you need to copy {{$user_details->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+-----------------------------------:-----------------------------------
+For User ID                        :       {{$user_details->id}}
+For User Name                      :       {{$user_details->name}}
+For Time of Email Verification     :       {{$user_details->email_verified_at}}
+For Artist Name                    :       {{$user_details->artistName}}
+For Balance                        :       {{$user_details->balance}}
+For Message                        :       {{$msg}}
+**************************************************************************************************************
+
+*******************************individual_person.blade.php*********************************************************
+This is only for this page(individual_person.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use Message you need to copy {{$msg}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+-----------------------------------:-----------------------------------
+For Message                        :       {{$msg}}
+**************************************************************************************************************
+
+*******************************user_request.blade.php*********************************************************
+This is only for this page(user_request.blade.php).Please don't these syntax on other page.
+You need to copy the whole syntax with double-curly braces to display it.
+Like if you want to use Message you need to copy {{$user_details->id}} to display the Album ID of the Album.
+
+    Display                         Need to copy
+-----------------------------------:-----------------------------------
+For User ID                        :       {{$user->id}}
+For User Name                      :       {{$user->name}}
+For Time of Email Verification     :       {{$user->email_verified_at}}
+For Artist Name                    :       {{$user->artistName}}
+For Balance                        :       {{$user->balance}}
+
+For Album ID                       :       {{$user->album->id}}
+For Album Title                    :       {{$user->album->title}}
+For Album UPC                      :       {{$user->album->upc}}
+For Album Release Date             :       {{$user->album->release}}
+For Album Last Note                :       {{$user->album->note}}
+For Album Spotify URL              :       {{$user->album->spotify_url}}
+For Album Apple Music URL          :       {{$user->album->apple_music_url}}
+
+**************************************************************************************************************

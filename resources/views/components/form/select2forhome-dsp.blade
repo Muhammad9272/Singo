@@ -1,0 +1,6 @@
+<select class="form-control custom-select " {{ $attributes->merge() }}>
+    <option value="0">-- {{ __("All DSPs") }} --</option>
+    @foreach($allDsp as $dsp)
+        <option value="{{ $dsp['id'] }}">{{ $dsp['name'] }}</option>
+    @endforeach
+</select>

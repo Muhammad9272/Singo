@@ -1,0 +1,82 @@
+[
+   {
+      "id":"1",
+      "title":"Newcomer",
+      "subtitle":"Nulla ut id qui non",
+      "points":100,
+      "rank":"Newcomer",
+      "detail":"Newcomer",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"2",
+      "title":"1k Newcomer",
+      "subtitle":"1k Newcomer Nulla ut id qui non",
+      "points":1000,
+      "rank":"1k Newcomer",
+      "detail":"1k Newcomer",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"3",
+      "title":"Upcoming Newcomer",
+      "subtitle":"Nulla ut id qui non",
+      "points":2000,
+      "rank":"Upcoming Newcomer",
+      "detail":"Upcoming Newcomer",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"4",
+      "title":"Artist",
+      "subtitle":"Nulla ut id qui non",
+      "points":10000,
+      "rank":"Artist",
+      "detail":"Artist",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"5",
+      "title":"Upcoming Artist",
+      "subtitle":"Nulla ut id qui non",
+      "points":25000,
+      "rank":"Upcoming Artist",
+      "detail":"Upcoming Artist",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"6",
+      "title":"Famous Artist",
+      "subtitle":"Nulla ut id qui non",
+      "points":50000,
+      "rank":"Famous Artist",
+      "detail":"Famous Artist",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"7",
+      "title":"Star",
+      "subtitle":"Nulla ut id qui non",
+      "points":100000,
+      "rank":"Star",
+      "detail":"Star",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   },
+   {
+      "id":"8",
+      "title":"Super Star",
+      "subtitle":"Nulla ut id qui non",
+      "points":1000000,
+      "rank":"Super Star",
+      "detail":"Super Star",
+      "photo":"uploads/images/1653225424_.png",
+      "badge":"uploads/images/1653811455_.png"
+   }
+]

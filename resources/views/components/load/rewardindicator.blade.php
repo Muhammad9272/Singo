@@ -1,0 +1,1 @@
+<p class="">{!! $rewarddata->detail !!}</p>
